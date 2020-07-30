@@ -1,0 +1,8 @@
+300000 -> 1 seg
+227940000 -> x
+
+=> 227940000 km * seg
+    300000 km
+
+1 vuelta -> Circunferencia (m)
+ x -> (km*1000)
